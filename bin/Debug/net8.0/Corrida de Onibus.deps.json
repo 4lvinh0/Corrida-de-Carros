@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Corrida de Onibus/1.0.0": {
+        "runtime": {
+          "Corrida de Onibus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Corrida de Onibus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

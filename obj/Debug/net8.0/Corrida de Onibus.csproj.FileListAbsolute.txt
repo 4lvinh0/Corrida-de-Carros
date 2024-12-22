@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Corrida de Onibus\bin\Debug\net8.0\Corrida de Onibus.exe
+C:\Users\Administrator\Desktop\Corrida de Onibus\bin\Debug\net8.0\Corrida de Onibus.deps.json
+C:\Users\Administrator\Desktop\Corrida de Onibus\bin\Debug\net8.0\Corrida de Onibus.runtimeconfig.json
+C:\Users\Administrator\Desktop\Corrida de Onibus\bin\Debug\net8.0\Corrida de Onibus.dll
+C:\Users\Administrator\Desktop\Corrida de Onibus\bin\Debug\net8.0\Corrida de Onibus.pdb
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.sourcelink.json
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.dll
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\refint\Corrida de Onibus.dll
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.pdb
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\Corrida de Onibus.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Corrida de Onibus\obj\Debug\net8.0\ref\Corrida de Onibus.dll
