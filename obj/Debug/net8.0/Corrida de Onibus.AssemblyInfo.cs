@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Corrida de Onibus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adaf7fc4ba9b56038c9a38c75470b1cc18b0a793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eefb1b28fa92c64f4edb7b8d69b257e2012aba0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Corrida de Onibus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Corrida de Onibus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
